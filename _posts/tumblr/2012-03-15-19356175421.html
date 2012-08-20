@@ -1,0 +1,21 @@
+---
+layout: post
+title: vim - copying between registers
+permalink: post/19356175421/vim-copying-between-registers
+---
+
+<p>Many times while in Vim, I like to test out regular expressions that I may use somewhere else (outside editor, command line, etc). Once I get the expression working I&#8217;ve sometimes found myself having to retype it into wherever it is I actually plan to use it.</p>
+
+<p><strong>A waste of my mother scratchin&#8217; time!</strong></p>
+
+<p>Vim makes heavy use of registers. I recently learned that there is even a register for the last search preformed (i.e. &#8216;/&#8217;). Could it be there is also a register for the clipboard? </p>
+
+<p>The &#8216;*&#8217; register is the clipboard. Now how do I go about copying between these two registers?</p>
+
+<p>For reference, I found a <a href="http://stackoverflow.com/questions/1502218/copy-from-one-register-to-another-vim" title="vim - copy registers" target="_blank">handy Q/A</a> on Stack Overflow about this very thing. To copy the last search expression into the clipboard register one would:</p>
+
+<pre>:let @*=@/</pre>
+
+<p>Yes. That simple.</p>
+
+<p>Oh Internet, I love thee. </p>
