@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : saadware
-tagline: if it's difficult, it's probably worthwhile
+tagline: if it's too easy, it's probably not worthwhile
 author :
   name : Scott Saad
   email : saadsj@gmail.com
