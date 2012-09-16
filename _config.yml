@@ -17,6 +17,7 @@ author :
   github : saadware
   twitter : saadware
   feedburner : saadware
+  gravatar: e228d9239eabcf0bfa17d2f9b3cafd1d
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -79,7 +80,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : saadware
     livefyre :
