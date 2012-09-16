@@ -1,5 +1,6 @@
 _site/*
 _theme_packages/*
+.tweet-cache/*
 
 Thumbs.db
 .DS_Store
