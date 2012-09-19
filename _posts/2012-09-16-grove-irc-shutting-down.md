@@ -7,7 +7,6 @@ category: misc
 Last night prior to turning in, I noticed the following tweet come through:
 
 <blockquote class="twitter-tweet tw-align-center"><p>We are sad to announce that Grove will be shutting down October 13th. <a href="https://t.co/ispQD80D" title="https://grove.io/blog/grove-shutting-down-october-13">grove.io/blog/grove-shu…</a></p>&mdash; Grove (@groveio) <a href="https://twitter.com/groveio/status/247190702038056960" data-datetime="2012-09-16T04:30:30+00:00">September 16, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Grove](http://grove.io) is a hosted service that aims at helping 
 teams communicate more effectively with their IRC based product, which
