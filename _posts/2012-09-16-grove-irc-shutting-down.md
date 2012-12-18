@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Grove IRC Shutting Down
-category: misc
+permalink: /misc/grove-irc-shutting-down
 --- 
 
 Last night prior to turning in, I noticed the following tweet come through:

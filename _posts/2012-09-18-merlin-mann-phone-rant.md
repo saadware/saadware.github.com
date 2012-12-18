@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Merlin Mann Phone Rant
-category: misc
+permalink: /misc/merlin-mann-phone-rant
 --- 
 
 For my own humor I had to capture the latest rant by 
