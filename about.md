@@ -25,7 +25,7 @@ title: "About Scott Saad"
     Scott works, lives and plays in Boulder, Colorado with his 
     beautiful wife and three silly kids. He has deep interest 
     in spirituality, Waldorf education and how one continually 
-    evolves as human a being. He enjoys an agile approach to 
+    evolves as a human being. He enjoys an agile approach to 
     software development as well as life. 
     </p>
 
