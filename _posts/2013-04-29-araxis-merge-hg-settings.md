@@ -32,7 +32,7 @@ To invoke the three-way merge to be invoked, I simply run the standard:
 I have different settings for Araxis when I use git, but that's 
 another post. :)
 
-Having a good diff/merge tools is well worth the investment as it saves 
+Having a good diff/merge tool is well worth the investment as it saves 
 time and headaches. Araxis has been my choice for over a decade now and
 it continues to prove itself as irreplaceable.
 
