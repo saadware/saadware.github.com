@@ -11,14 +11,12 @@ into the mix.
 
 Ultimately, here is what I have in my mercural.ini file:
 
-```
-[ui]
-merge = araxis
+    [ui]  
+    merge = araxis  
 
-[extdiff]
-cmd.arxdiff=C:\Program Files\Araxis\Araxis Merge\ConsoleCompare.exe
-opts.arxdiff=/2 /wait
-```
+    [extdiff]  
+    cmd.arxdiff=C:\Program Files\Araxis\Araxis Merge\ConsoleCompare.exe  
+    opts.arxdiff=/2 /wait
 
 This allows me use the Araxis Merge tool from both Tortoise Workbench 
 and from the command line. 
@@ -41,5 +39,3 @@ another post. :)
 Having a good diff/merge tool is well worth the investment as it saves 
 time and headaches. Araxis has been my choice for over a decade now and
 it continues to prove itself as irreplaceable.
-
-
