@@ -22,5 +22,6 @@ cmdlet.
 ```
 (Invoke-WebRequest https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py).Content | python
 ```
+
 Just another way to keep yourself in the shell more often than not. You
 know, if you're into that sort of thing.
