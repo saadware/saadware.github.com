@@ -8,7 +8,7 @@ layout: layout
 	</h1>
 
 	<section class="byline">
-		{{ page.date | date: "%B %e, %Y" }}
+		by {{ site.author.name }} - {{ page.date | date: "%B %e, %Y" }}
 	</section>
 
 	{{ content }}
@@ -23,9 +23,7 @@ layout: layout
 			<p>
 				I'm a software geek working for EWS in Boulder, Colorado. 
 				<a href="https://twitter.com/{{ site.author.twitter }}">Follow me on Twitter</a>; 
-				you'll dig my tweets. Too much thought and energy is put into each one.
-				The insanity of an introvert, expressing through extrovert mechanisms is 
-				quite the spectacle. 
+				you'll dig my tweets if you're into that sort of thing.
 			</p>
 
 			<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.author.twitter }}">Tweet</a>

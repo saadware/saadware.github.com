@@ -9,24 +9,22 @@ title: "About Scott Saad"
     <h1>Scott Saad</h1>
 
     <p>
-    Scott Saad was a former sprinter, footballer, basketballer, 
-    racquetballer and closet geek (though he didn't know it at 
-    the time). He has worked for software startups (two to be 
-    exact) for his entire professional career; first in creating 
-    cutting edge 3D rendering systems at 
-    <a href="http://anark.com">Anark Corporation</a> (later partially 
-    acquired by nVidia) and currently at 
-    <a href="https://ewsgroup.com">EWS</a> 
-    building massive business systems that help transform 
-    the moving and transportation industry. 
+    Scott Saad was a former sprinter, footballer, basketballer,
+    racquetballer and closet geek (though he didn't know it at the
+    time). He has worked for software startups (two to be exact) for his
+    entire professional career; first in creating cutting edge 3D
+    rendering systems at <a href="http://anark.com">Anark
+    Corporation</a> (later partially acquired by <a
+    href="http://www.nvidia.com">NVIDIA</a>) and currently at <a
+    href="https://ewsgroup.com">EWS</a> building massive business
+    systems that help transform the moving and transportation industry. 
     </p>
 
     <p>
-    Scott works, lives and plays in Boulder, Colorado with his 
-    beautiful wife and three silly kids. He has deep interest 
-    in spirituality, Waldorf education and how one continually 
-    evolves as a human being. He enjoys an agile approach to 
-    software development as well as life. 
+    Scott works, lives and plays in Boulder, Colorado with his beautiful
+    wife and three silly kids. He has deep interest in spirituality,
+    Waldorf education and how one continually evolves as a human being.
+    He enjoys an agile approach to software development as well as life. 
     </p>
 
     <p>
