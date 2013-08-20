@@ -16,7 +16,7 @@ title: "About Scott Saad"
     rendering systems at <a href="http://anark.com">Anark
     Corporation</a> (later partially acquired by <a
     href="http://www.nvidia.com">NVIDIA</a>) and currently at <a
-    href="https://ewsgroup.com">EWS</a> building massive business
+    href="http://ewsgroup.com">EWS</a> building massive business
     systems that help transform the moving and transportation industry. 
     </p>
 
