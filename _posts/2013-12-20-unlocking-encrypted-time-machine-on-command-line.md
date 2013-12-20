@@ -16,13 +16,13 @@ In order to do this I first had to find the volume's UUID.
 diskutil cs list 
 ```` 
 
-The UUID is the massive key next that looks like:
+From the output, the UUID is the massive key on a line that looks like:
 
- **Logical Volume XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**. 
+ **Logical Volume XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**
 
-Note that it's not the **Logical Volume Group** or the **Physical
-Volume** or the **Logical Volume Family**... it's simply the **Logical
-Volume**. 
+Note that it's not the **Logical Volume Group** or the 
+**Physical Volume** or the **Logical Volume Family**. It's simply the 
+**Logical Volume**. 
 
 From here you can copy the UUID and run the following command:
 
