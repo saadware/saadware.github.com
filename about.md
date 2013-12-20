@@ -18,7 +18,9 @@ title: "About Scott Saad"
     href="http://ewsgroup.com">EWS</a> building massive business systems
     that help transform the moving and transportation industry, which
     was acquired by Canadians. 
+    </p>
     
+    <p>
     Currently he's on a solo mission doing some cool programming on big
     time back-end systems in the financial sector. He would explain it
     but would have to swear you to secrecy, which is obviously impossible 
