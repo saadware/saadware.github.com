@@ -9,7 +9,11 @@ Since switching over to mercurial (hg), I needed to find a way to
 infuse my existing graphical diff tool, [Araxis Merge](http://www.araxis.com/merge/) 
 into the mix. 
 
-Ultimately, here is what I have in my mercural.ini file:
+Ultimately, here is the pertinent information I have in my 
+mercural.ini (or .hgrc on Mac) file:
+
+    [extensions]
+    hgext.extdiff=
 
     [ui]  
     merge = araxis  
