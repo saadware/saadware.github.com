@@ -12,7 +12,10 @@ into the mix.
 Ultimately, here is the pertinent information I have in my 
 mercural.ini (or .hgrc on Mac) file:
 
+
 ```
+
+
 [extensions]
 hgext.extdiff=
 
@@ -22,6 +25,8 @@ merge = araxis
 [extdiff]  
 cmd.arxdiff=C:\Program Files\Araxis\Araxis Merge\ConsoleCompare.exe  
 opts.arxdiff=/2 /wait
+
+
 ```
 
 This allows me use the Araxis Merge tool from both Tortoise Workbench 
