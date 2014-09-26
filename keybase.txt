@@ -1,0 +1,66 @@
+---
+title: "Keybase.io"
+---
+==================================================================
+https://keybase.io/saadware
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://saadware.com
+  * I am saadware (https://keybase.io/saadware) on keybase.
+  * I have a public key with fingerprint 470D 2EF0 0454 F00D A1BB  45DD 94AC 5270 52B6 413C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "470d2ef00454f00da1bb45dd94ac527052b6413c",
+            "host": "keybase.io",
+            "key_id": "94ac527052b6413c",
+            "uid": "dfdb61eb5be0b8f4cb94e0d8c9509600",
+            "username": "saadware"
+        },
+        "service": {
+            "hostname": "saadware.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411742617,
+    "expire_in": 157680000,
+    "prev": "1d0a372b320aa24594560e84c5d95a0f48cd7f2df4f7aa235e19a0ef633879eb",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owGbwMvMwMU4ZU1QQdA2RxvG0wc+JTGEqFbPr1ZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSibmBilGqWkGBiamJkAyJdEwKcnENCXF0iQx2dTI3MDUKMnMxNA4WUlH
+KSO/GKQDaExSYnGqXmY+UAzIic9MAYpiUV8KlkhJS0kyM0xNMk1KNUiySDNJTrI0
+STVIsUi2NDWwNDMwACksTi3KS8xNBaouTkxMKU8sSlWq1VECipZlJqeC3AyyGk2F
+XnJ+LlBvQVF+SX5yfg5QJqOkpMAKpLGksgCksjw1KR5qRnxSZl4K0N9ADWWpRcWZ
++XlKVoZAlcklmSBDDU0MDc1NjMwMzXWUUisKMotS4zNBKkzNzSwMgABkTWoZ0EjD
+FINEY3OjJGMjg8REIxNTSxNTM4NUC5Nk0xRL00SDNBOL5BTzNKOUNJM0c6ACY9NU
+Q8tEg9Q0M2NjC3PL1CQlkK8K8/KVrEyAzkxMB/knMz0vsaQU5GWuTkYZFgZGLgY2
+ViZQ1DFwcQrAIrS1noNhxmVBQ0PZHb43162KmsX0+5oF37rw1sjM527ve676TRVp
+MP/D4qWwlPe/4L27TtfWf/8gpcf5ffGer7N01zxNW/Yy7LmXSa9T2/ElQkuOWM5o
+TdybzSnhOnlZ56kp+ek33roaf1yh0BnMEVt0+H7IffunOodbVl2QFVWb0S/meK26
+9M73ytzViRa7b006uD51Z9vCwD6DzGLnI0m+lgHnE3/9NeFJ2P3qzIcHtvIKEqol
+whv8fqRtNUlgrfb8OtXLZg9Pls5tpz379nN9kbpVIPnhgPflTb65oj4lR7rt6o48
+UzlTtuLoJanoY62XdwRWNXSKzbXaP8VT47g+81+Dx3J3nv5MiYsx1p9R++YOAA==
+=E7D5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/saadware
+
+==================================================================
